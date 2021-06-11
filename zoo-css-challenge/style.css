@@ -184,6 +184,15 @@ footer {
   padding: 100px 5%;
 }
 
+.education button {
+  font-size: 125%;
+  border-radius: 15px;
+}
+
+.education button:hover{
+  background-color: rgb(34, 170, 170);
+}
+
 .education-container {
   background-color: rgba(255, 255, 255, 0.75);
   padding: 50px;
@@ -200,6 +209,14 @@ footer {
 .membership {
   text-align: center;
   background-color: #fffffc;
+}
+
+.membership button{
+  font-size: 125%;
+  border-radius: 15px;
+}
+.membership button:hover {
+  background-color: rgb(34, 170, 170);
 }
 
 .membership h2 {

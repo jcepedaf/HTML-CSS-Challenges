@@ -237,3 +237,7 @@ footer {
 .programs .card {
   display: block;
 }
+ .programs div:first-of-type{
+  display: flex;
+  align-items: stretch;
+ }
